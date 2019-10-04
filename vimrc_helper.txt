@@ -1,1 +1,1 @@
-Vimrc settings
+Activate auto changing tab to spaces: set expandtab
